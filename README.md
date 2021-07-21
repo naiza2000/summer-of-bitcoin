@@ -24,7 +24,7 @@ If every block were built using the same amount of Proof Of Work, the `longest c
 
 
 ### Important events in Bitcoin:
-1. `Genesis block` is mined with a timestamp of Jan 9th in 2009.
+1. `Genesis block` was mined with a timestamp of Jan 9th in 2009.
 2. Merging `P2SH` proposal : allows the receiver of a transaction to specify the script needed to spend it.
 3. `Unexpected hardfork` in 2013.
 4.  
