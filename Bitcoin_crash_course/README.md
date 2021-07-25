@@ -1,0 +1,2 @@
+In the first week of Summmer of Bitcoin, I read an amazing book - [Grokking Bitcoin](https://www.manning.com/books/grokking-bitcoin) and if you are a beginner too, I would recommend you to go through the same. 
+This directory contains the personal notes that I made, from the book, to have a better understanding of the concept. 
